@@ -1,7 +1,7 @@
 # Repo Specific #
 ##################
-/edk2*
-/FSP
+edk2*
+FSP
 Code of Conduct.md
 MAINTAINERS.md
 Readme_VisualStudioInstall.png
@@ -10,6 +10,10 @@ Readme_VisualStudioInstall.png
 ###############
 *.git
 *.diff
+
+# Visual Studio Code #
+#######################
+*.code-workspace
 
 # Security Risks #
 ###################
